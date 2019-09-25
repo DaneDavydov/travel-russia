@@ -1,0 +1,21 @@
+.video__item-bg {
+    opacity:0.5;
+    border-radius: 5px;
+    width: 100%;
+    height: auto;
+    position:absolute;
+    top: 0;
+    left: 0;
+    z-index:-1;
+}
+
+.video__item:hover .video__item-bg{
+    opacity:0.2;
+}
+
+@media (min-width: 1024px) and (max-width: 1279px) {
+    .video__item-bg {
+        width: 456px;
+        height: 288px;
+    }
+}

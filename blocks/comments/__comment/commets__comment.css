@@ -1,0 +1,30 @@
+.comments__comment {
+    max-width:382px;
+}
+
+@media (min-width: 1024px) and (max-width: 1279px) {
+    .comments__comment {
+        max-width: 296px;
+    }
+    .comments__comment:nth-child(2) {
+        margin: 0 18px 0 18px;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .comments__comment {
+        max-width: 382px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .comments__comment:nth-child(2) {
+        margin: 38px 0 38px 0;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .comments__comment:nth-child(2) {
+        margin: 48px 0 50px 0;
+    }
+}

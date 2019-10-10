@@ -11,6 +11,7 @@
 
 .video__item:hover .video__item-bg{
     opacity:0.2;
+    transition: 0.5s;
 }
 
 @media (min-width: 1024px) and (max-width: 1279px) {

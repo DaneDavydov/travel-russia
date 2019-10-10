@@ -8,10 +8,9 @@
     <link rel="stylesheet" href="pages/index.css">
 </head>
 <body>
-<div class="background">
-    <div class="page">
-    <header class="header">
 
+<div class="page">
+    <header class="header">
         <img src="images/logo.svg" class="header__logo" alt="Лого">
         <div class="header__lang">
             <a href="index.html" class="link header__lang-ru">Ru</a>
@@ -252,7 +251,8 @@
 
     <footer class="footer">
         <ul class="footer__links">
-            <li class="footer__item"><a href="https://yandex.ru/maps/" class="link footer__link" target="_blank">Карты</a>
+            <li class="footer__item"><a href="https://yandex.ru/maps/" class="link footer__link"
+                                        target="_blank">Карты</a>
             </li>
             <li class="footer__item"><a href="https://yandex.ru/pogoda/" class="link footer__link" target="_blank">Погода</a>
             </li>
@@ -265,7 +265,37 @@
         </ul>
         <p class="footer__copyright">&copy; 2019. Denis Davydov</p>
     </footer>
-    </div>
 </div>
+
 </body>
 </html>
+
+<!-- В целом по работе:
+    Отлично!
+
+    Вы используете правильные БЭМ наименования
+    Код легко читается
+    Вы не используете лишних оберток
+    Использованы семантичные теги
+    Правильно составлены мета теги в head
+    Правильная структура папок в проекте
+    Верстка соответствует макету
+
+    Что нужно исправить:
+
+    1. Оберните центрующию обертку в div и задайте ему фоновый цвет. Таким образом вы избавитесь от белых полос по краям сайта.
+    2. На 800px не должно появляться горизонтальной полосы прокрутки.
+    3. С 400px и до 320px также не должно быть полосы прокрутки.
+    4. На широком экране добавьте отступ между блоками с видео video__container
+
+-->
+
+<!--
+Вы не исправили 1 и 3 пункты.
+
+1. Не должно быть белых полей по краям вашего сайта
+2. На ширине 320px не должно быть горизонтальной прокрутки
+
+-->
+
+<!--Принято-->

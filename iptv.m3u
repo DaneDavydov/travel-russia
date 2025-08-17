@@ -23,3 +23,21 @@ http://77.235.1.19:8000/play/a002/index.m3u8
 http://77.235.1.19:8000/play/a003/index.m3u8
 #EXTINF:-1 group-title="Матч" tvg-id="2005",Матч! Футбол 3
 http://185.57.68.33/110/mpegts
+#EXTINF:-1 group-title="Познавательные" tvg-id="325",Discovery Channel
+http://45.159.74.22/DiscoveryChannel/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="325",Discovery Channel HD
+http://178.217.72.66:8080/Discovery_HD/video.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="1394",History
+http://95.85.109.219:7000/play/a069
+#EXTINF:-1 group-title="Познавательные" tvg-id="102",National Geographic HD
+http://178.217.72.66:8080/National_Geographic/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="648",RTG
+http://195.26.83.96:7007/play/a00n/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="765",Viju Nature
+http://158.101.222.193:88/georgia_play.php?id=viasatnat
+#EXTINF:-1 group-title="Познавательные" tvg-id="277",Viju History
+http://158.101.222.193:88/georgia_play.php?id=viasathist
+#EXTINF:-1 group-title="Познавательные" tvg-id="521",Viju Explore
+http://api.peers.tv/timeshift/viasat_explorer/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTU1MDUyOTcsImlhdCI6MTc1NTQxODg5NywiY2lkIjo2LCJ1aWQiOjkzNzY2MTE0MSwicmVnIjpmYWxzZSwiaXAiOjE0OTQ3MjUzMDEsImFkdWx0IjpmYWxzZX0.O2Bx60Yo_ZOJ77HzRm2GsXqpga_TZ11ySZLFLrAJfhY&offset=10
+#EXTINF:-1 group-title="Познавательные" tvg-id="675",Моя планета
+http://api.peers.tv/timeshift/my_planet/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTU1MDUyOTcsImlhdCI6MTc1NTQxODg5NywiY2lkIjo2LCJ1aWQiOjkzNzY2MTE0MSwicmVnIjpmYWxzZSwiaXAiOjE0OTQ3MjUzMDEsImFkdWx0IjpmYWxzZX0.O2Bx60Yo_ZOJ77HzRm2GsXqpga_TZ11ySZLFLrAJfhY&offset=10

@@ -1,47 +1,46 @@
 #EXTM3U
-#EXTINF:-1 group-title="Рыбалка" tvg-id="2627",Диалоги о рыбалке
-http://hls.peers.tv/streaming/dialogi_o_rybalke/16/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTU1MDUyOTcsImlhdCI6MTc1NTQxODg5NywiY2lkIjo2LCJ1aWQiOjkzNzY2MTE0MSwicmVnIjpmYWxzZSwiaXAiOjE0OTQ3MjUzMDEsImFkdWx0IjpmYWxzZX0.O2Bx60Yo_ZOJ77HzRm2GsXqpga_TZ11ySZLFLrAJfhY
-#EXTINF:-1 group-title="Рыбалка" tvg-id="1681",Охотник и рыболов
-http://158.160.149.81:8080/689/index.m3u8
-#EXTINF:-1 group-title="Рыбалка" tvg-id="6646",Рыболов
-http://158.160.149.81:8080/351/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="2052",Eurosport 1
+#EXTINF:-1 group-title="Рыбалка" tvg-id="",Диалоги о рыбалке
+http://hls.peers.tv/streaming/dialogi_o_rybalke/16/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTYxMjM4NDAsImlhdCI6MTc1NjAzNzQ0MCwiY2lkIjo2LCJ1aWQiOjkzOTQxMTI1NSwicmVnIjpmYWxzZSwiaXAiOjE0OTQ3MjUzMDEsImFkdWx0IjpmYWxzZX0.wsRlniTUJzX1U0AtCbHewnkUAx_sKnHGoEpfAuFOV-8$OPT:adaptive-logic=highest$OPT:no-ts-cc-check$OPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15$OPT:INT-SCRIPT-PARAMS=peers_tv
+#EXTINF:-1 group-title="Рыбалка" tvg-id="",Диалоги о рыбалке HD
+https://s25617.cdn.ngenix.net/mdrm/CH_DIALORYBHD/manifest.mpd
+#EXTINF:-1 group-title="Рыбалка" tvg-id="",Охотник и рыболов
+http://45.159.74.22/Channel_124/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="",Eurosport 1
 http://178.217.72.66:8080/Eurosport_HD/video.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",Eurosport 2
-http://178.217.72.66:8080/Eurosport_2_HD/video.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="7517",Setanta Sports 1 HD
-http://158.160.149.81:8080/4536/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="2363",Setanta Sports 2 HD
+http://138.201.250.184/eurosport2/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="",Setanta Sports 1 HD
+http://95.85.109.219:7000/play/a067
+#EXTINF:-1 group-title="Спорт" tvg-id="",Setanta Sports 2 HD
 http://95.85.109.219:7000/play/a068
-#EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",Setanta Sports+
+#EXTINF:-1 group-title="Спорт" tvg-id="",Setanta Sports+
 http://158.160.149.81:8080/8829/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="2250",Матч! Премьер
-http://178.219.160.169:8880/139/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="2044",Матч! Футбол 1
+#EXTINF:-1 group-title="Спорт" tvg-id="",Матч! Премьер
+https://s25617.cdn.ngenix.net/mdrm/CH_C06_NASHFOOTBALLHD/manifest.mpd
+#EXTINF:-1 group-title="Спорт" tvg-id="",Матч! Футбол 1
 http://77.235.1.19:8000/play/a002/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="1042",Матч! Футбол 2
+#EXTINF:-1 group-title="Спорт" tvg-id="",Матч! Футбол 2
 http://77.235.1.19:8000/play/a003/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="2005",Матч! Футбол 3
+#EXTINF:-1 group-title="Спорт" tvg-id="",Матч! Футбол 3
 http://185.57.68.33/110/mpegts
 #EXTINF:-1 group-title="Спорт" tvg-id="",Sky Sports
-https://7pal.short.gy/skspmaine
-#EXTINF:-1 group-title="Познавательные" tvg-id="325",Discovery Channel
+https://7pal.short.gy/ssportsfb
+#EXTINF:-1 group-title="Познавательные" tvg-id="",Discovery Channel
 http://45.159.74.22/DiscoveryChannel/mono.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-id="325",Discovery Channel HD
+#EXTINF:-1 group-title="Познавательные" tvg-id="",Discovery Channel HD
 http://178.217.72.66:8080/Discovery_HD/video.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-id="1394",History
+#EXTINF:-1 group-title="Познавательные" tvg-id="",History
 http://95.85.109.219:7000/play/a069
-#EXTINF:-1 group-title="Познавательные" tvg-id="102",National Geographic HD
-http://178.217.72.66:8080/National_Geographic/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-id="648",RTG
+#EXTINF:-1 group-title="Познавательные" tvg-id="",National Geographic HD
+http://158.160.149.81:8080/43/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="",RTG
 http://195.26.83.96:7007/play/a00n/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-id="765",Viju Nature
+#EXTINF:-1 group-title="Познавательные" tvg-id="",Viju Nature
 http://158.101.222.193:88/georgia_play.php?id=viasatnat
-#EXTINF:-1 group-title="Познавательные" tvg-id="277",Viju History
+#EXTINF:-1 group-title="Познавательные" tvg-id="",Viju History
 http://158.101.222.193:88/georgia_play.php?id=viasathist
-#EXTINF:-1 group-title="Познавательные" tvg-id="521",Viju Explore
-http://api.peers.tv/timeshift/viasat_explorer/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTU1MDUyOTcsImlhdCI6MTc1NTQxODg5NywiY2lkIjo2LCJ1aWQiOjkzNzY2MTE0MSwicmVnIjpmYWxzZSwiaXAiOjE0OTQ3MjUzMDEsImFkdWx0IjpmYWxzZX0.O2Bx60Yo_ZOJ77HzRm2GsXqpga_TZ11ySZLFLrAJfhY&offset=10
-#EXTINF:-1 group-title="Познавательные" tvg-id="675",Моя планета
-http://api.peers.tv/timeshift/my_planet/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTU1MDUyOTcsImlhdCI6MTc1NTQxODg5NywiY2lkIjo2LCJ1aWQiOjkzNzY2MTE0MSwicmVnIjpmYWxzZSwiaXAiOjE0OTQ3MjUzMDEsImFkdWx0IjpmYWxzZX0.O2Bx60Yo_ZOJ77HzRm2GsXqpga_TZ11ySZLFLrAJfhY&offset=10
-
+#EXTINF:-1 group-title="Познавательные" tvg-id="",Viju Explore
+http://158.101.222.193:88/georgia_play.php?id=viasatexp
+#EXTINF:-1 group-title="Познавательные" tvg-id="",Моя планета
+https://s25617.cdn.ngenix.net/mdrm/CH_IQHD/manifest.mpd
 

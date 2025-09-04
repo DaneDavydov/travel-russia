@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="Рыбалка" tvg-id="",Диалоги о рыбалке
-http://hls.peers.tv/streaming/dialogi_o_rybalke/16/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTYxMjM4NDAsImlhdCI6MTc1NjAzNzQ0MCwiY2lkIjo2LCJ1aWQiOjkzOTQxMTI1NSwicmVnIjpmYWxzZSwiaXAiOjE0OTQ3MjUzMDEsImFkdWx0IjpmYWxzZX0.wsRlniTUJzX1U0AtCbHewnkUAx_sKnHGoEpfAuFOV-8$OPT:adaptive-logic=highest$OPT:no-ts-cc-check$OPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15$OPT:INT-SCRIPT-PARAMS=peers_tv
-#EXTINF:-1 group-title="Рыбалка" tvg-id="",Диалоги о рыбалке HD
-https://s25617.cdn.ngenix.net/mdrm/CH_DIALORYBHD/manifest.mpd
+http://hls.peers.tv/streaming/dialogi_o_rybalke/16/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTcwNTQ0MDEsImlhdCI6MTc1Njk2ODAwMSwiY2lkIjo2LCJ1aWQiOjk0MjQ0NzQ2OCwicmVnIjpmYWxzZSwiaXAiOjE0OTQ3MjU3NzAsImFkdWx0IjpmYWxzZX0.GPUpSYgJfqneM5fdoWhnnsJtqNlam94kViHDEkH11fU
 #EXTINF:-1 group-title="Рыбалка" tvg-id="",Охотник и рыболов
 http://45.159.74.22/Channel_124/index.m3u8
+#EXTINF:-1 group-title="Рыбалка" tvg-id="",Рыболов
+http://178.217.72.66:8080/rybolov/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="",Eurosport 1
 http://178.217.72.66:8080/Eurosport_HD/video.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",Eurosport 2
@@ -16,7 +16,7 @@ http://95.85.109.219:7000/play/a068
 #EXTINF:-1 group-title="Спорт" tvg-id="",Setanta Sports+
 http://158.160.149.81:8080/8829/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="",Матч! Премьер
-https://s25617.cdn.ngenix.net/mdrm/CH_C06_NASHFOOTBALLHD/manifest.mpd
+http://178.212.71.253:8000/play/57/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="",Матч! Футбол 1
 http://77.235.1.19:8000/play/a002/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="",Матч! Футбол 2
@@ -42,5 +42,6 @@ http://158.101.222.193:88/georgia_play.php?id=viasathist
 #EXTINF:-1 group-title="Познавательные" tvg-id="",Viju Explore
 http://158.101.222.193:88/georgia_play.php?id=viasatexp
 #EXTINF:-1 group-title="Познавательные" tvg-id="",Моя планета
-https://s25617.cdn.ngenix.net/mdrm/CH_IQHD/manifest.mpd
+http://api.peers.tv/timeshift/my_planet/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTcwNTQ0MDEsImlhdCI6MTc1Njk2ODAwMSwiY2lkIjo2LCJ1aWQiOjk0MjQ0NzQ2OCwicmVnIjpmYWxzZSwiaXAiOjE0OTQ3MjU3NzAsImFkdWx0IjpmYWxzZX0.GPUpSYgJfqneM5fdoWhnnsJtqNlam94kViHDEkH11fU&offset=10
+
 

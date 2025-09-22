@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Рыбалка" tvg-id="",Диалоги о рыбалке
-http://hls.peers.tv/streaming/dialogi_o_rybalke/16/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTcwNTQ0MDEsImlhdCI6MTc1Njk2ODAwMSwiY2lkIjo2LCJ1aWQiOjk0MjQ0NzQ2OCwicmVnIjpmYWxzZSwiaXAiOjE0OTQ3MjU3NzAsImFkdWx0IjpmYWxzZX0.GPUpSYgJfqneM5fdoWhnnsJtqNlam94kViHDEkH11fU
-#EXTINF:-1 group-title="Рыбалка" tvg-id="",Охотник и рыболов
-http://45.159.74.22/Channel_124/index.m3u8
-#EXTINF:-1 group-title="Рыбалка" tvg-id="",Рыболов
-http://178.217.72.66:8080/rybolov/tracks-v1a1/mono.m3u8
+http://hls.peers.tv/streaming/dialogi_o_rybalke/16/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTg2MTk3ODIsImlhdCI6MTc1ODUzMzM4MiwiY2lkIjo2LCJ1aWQiOjk0Njk1NDgxOSwicmVnIjpmYWxzZSwiaXAiOjUyODYxNzYyOCwiYWR1bHQiOmZhbHNlfQ.3fzOhbhshaL00L-sgkTDCKOI8AWDhE0GljqD02wXzlw
 #EXTINF:-1 group-title="Спорт" tvg-id="",Eurosport 1
 http://178.217.72.66:8080/Eurosport_HD/video.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",Eurosport 2
@@ -42,6 +38,6 @@ http://158.101.222.193:88/georgia_play.php?id=viasathist
 #EXTINF:-1 group-title="Познавательные" tvg-id="",Viju Explore
 http://158.101.222.193:88/georgia_play.php?id=viasatexp
 #EXTINF:-1 group-title="Познавательные" tvg-id="",Моя планета
-http://api.peers.tv/timeshift/my_planet/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTcwNTQ0MDEsImlhdCI6MTc1Njk2ODAwMSwiY2lkIjo2LCJ1aWQiOjk0MjQ0NzQ2OCwicmVnIjpmYWxzZSwiaXAiOjE0OTQ3MjU3NzAsImFkdWx0IjpmYWxzZX0.GPUpSYgJfqneM5fdoWhnnsJtqNlam94kViHDEkH11fU&offset=10
+http://api.peers.tv/timeshift/my_planet/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTg2MTk3ODIsImlhdCI6MTc1ODUzMzM4MiwiY2lkIjo2LCJ1aWQiOjk0Njk1NDgxOSwicmVnIjpmYWxzZSwiaXAiOjUyODYxNzYyOCwiYWR1bHQiOmZhbHNlfQ.3fzOhbhshaL00L-sgkTDCKOI8AWDhE0GljqD02wXzlw&offset=10
 
 

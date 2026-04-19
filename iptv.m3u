@@ -1,30 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="Рыбалка" tvg-id="",Диалоги о рыбалке
 http://hls.peers.tv/streaming/dialogi_o_rybalke/16/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTg2MTk3ODIsImlhdCI6MTc1ODUzMzM4MiwiY2lkIjo2LCJ1aWQiOjk0Njk1NDgxOSwicmVnIjpmYWxzZSwiaXAiOjUyODYxNzYyOCwiYWR1bHQiOmZhbHNlfQ.3fzOhbhshaL00L-sgkTDCKOI8AWDhE0GljqD02wXzlw
-#EXTINF:-1 group-title="Спорт" tvg-id="",Eurosport 1
-http://178.217.72.66:8080/Eurosport_HD/video.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",Eurosport 2
-http://138.201.250.184/eurosport2/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="",Setanta Sports 1 HD
-http://95.85.109.219:7000/play/a067
-#EXTINF:-1 group-title="Спорт" tvg-id="",Setanta Sports 2 HD
-http://95.85.109.219:7000/play/a068
-#EXTINF:-1 group-title="Спорт" tvg-id="",Setanta Sports+
-http://158.160.149.81:8080/8829/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="",Матч! Премьер
-http://178.212.71.253:8000/play/57/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="",Матч! Футбол 1
-http://77.235.1.19:8000/play/a002/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="",Матч! Футбол 2
-http://77.235.1.19:8000/play/a003/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="",Матч! Футбол 3
-http://185.57.68.33/110/mpegts
-#EXTINF:-1 group-title="Спорт" tvg-id="",Sky Sports
-https://7pal.short.gy/ssportsfb
 #EXTINF:-1 group-title="Познавательные" tvg-id="",Discovery Channel
 http://45.159.74.22/DiscoveryChannel/mono.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-id="",Discovery Channel HD
-http://178.217.72.66:8080/Discovery_HD/video.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="",Рыболов
+http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Rybalov.m3u8&serviceArea=MSK-SA-1
 #EXTINF:-1 group-title="Познавательные" tvg-id="",History
 http://95.85.109.219:7000/play/a069
 #EXTINF:-1 group-title="Познавательные" tvg-id="",National Geographic HD
